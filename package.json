@@ -1,0 +1,25 @@
+{
+  "name": "weather-report",
+  "version": "1.0.0",
+  "description": "Asynchronous web app that uses Web API and user data to dynamically update the UI in a Weather Journal application.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "testApp",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TBC"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Serban-Cristian Ghermanescu",
+  "license": "ISC"
+}
